@@ -3,19 +3,11 @@ Effective date: 2020-10-15
 
 1. Introduction
 
-Welcome to Devoguein.in.
-
-Devoguein.in (“us”, “we”, or “our”) operates https://devoguein.in/ (hereinafter referred to as “Service”).
-
-Our Privacy Policy governs your visit to https://devoguein.in/, and explains how we collect, safeguard and disclose information that results from your use of our Service.
-
 We use your data to provide and improve Service. By using Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
 Our Terms and Conditions (“Terms”) govern all use of our Service and together with the Privacy Policy constitutes your agreement with us (“agreement”).
 
 2. Definitions
-
-SERVICE means the https://devoguein.in/ website operated by Devoguein.in.
 
 PERSONAL DATA means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
@@ -91,8 +83,6 @@ While using our Service, we may also collect the following information: sex, age
 
 5. Use of Data
 
-Devoguein.in uses the collected data for various purposes:
-
 0.1. to provide and maintain our Service;
 
 0.2. to notify you about changes to our Service;
@@ -133,7 +123,7 @@ If you are located outside India and choose to provide information to us, please
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-Devoguein.in will take all the steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organisation or a country unless there are adequate controls in place including the security of your data and other personal information.
+We will take all the steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organisation or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 8. Disclosure of Data
 
@@ -169,7 +159,7 @@ If you are a resident of the European Union (EU) and European Economic Area (EEA
 
 We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
 
-If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please email us at info@devoguein.in.
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please email us at admin@every-c.com.
 
 In certain circumstances, you have the following data protection rights:
 
@@ -201,7 +191,7 @@ According to CalOPPA we agree to the following:
 
 0.3. users will be notified of any privacy policy changes on our Privacy Policy Page;
 
-0.4. users are able to change their personal information by emailing us at info@devoguein.in.
+0.4. users are able to change their personal information by emailing us at admin@every-c.com.
 
 Our Policy on “Do Not Track” Signals:
 
@@ -239,7 +229,7 @@ If you submit a request to stop selling your personal information, we will stop 
 
 Please note, if you ask us to delete or stop selling your data, it may impact your experience with us, and you may not be able to participate in certain programs or membership services which require the usage of your personal information to function. But in no circumstances, we will discriminate against you for exercising your rights.
 
-To exercise your California data protection rights described above, please send your request(s) by email: info@devoguein.in.
+To exercise your California data protection rights described above, please send your request(s) by email: admin@every-c.com.
 
 Your data protection rights, described above, are covered by the CCPA, short for the California Consumer Privacy Act. To find out more, visit the official California Legislative Information website. The CCPA took effect on 01/01/2020.
 
@@ -291,4 +281,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 21. Contact Us
 
-If you have any questions about this Privacy Policy, please contact us by email: info@devoguein.in.
+If you have any questions about this Privacy Policy, please contact us by email: admin@every-c.com.
